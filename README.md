@@ -15,12 +15,16 @@ File Format - .pbix for development and .png for dashboard preview
 
 4. Dataset
 The dataset contains pizza order details including:
+
 order_details
+
 orders
+
 pizza_types
+
 pizzas
 
-5. Features
+6. Features
 
 • Total Sales Overview- Displays overall revenue generated from pizza sales for quick business performance tracking.
 
