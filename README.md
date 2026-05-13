@@ -23,11 +23,17 @@ pizzas
 5. Features
 
 • Total Sales Overview- Displays overall revenue generated from pizza sales for quick business performance tracking.
+
 • Most Ordered Pizza Identification - Highlights the pizza with the highest number of orders to identify customer favorites.
+
 • Order Frequency Analysis by Time - Visualizes how order volumes change throughout the day to identify peak business hours.
+
 • Day-wise Order Analysis - Shows which days of the week receive the highest number of orders for operational planning.
+
 • Best-Selling Pizza Category Tracking - Compares pizza categories such as Classic, Supreme, Chicken, and Veggie to determine top-performing categories.
+
 • Top Revenue-Generating Pizzas - Displays pizzas contributing the most to total sales revenue using comparative visualizations.
+
 • Time-of-Day Sales Insights - Analyzes customer ordering behavior across Morning, Afternoon, Evening, and Night periods.
 
 5.Objective
@@ -35,5 +41,9 @@ The goal of this project is to demonstrate how sales data can be leveraged to im
 
 6. Dashboard Preview
 
-https://github.com/jayakumar107/Pizza-Sales-Dashboard/blob/main/pizza%20sales%20report%20dashboard.png
+   
+<img width="637" height="344" alt="pizza sales report dashboard" src="https://github.com/user-attachments/assets/067ecfde-cf0a-417b-94e8-bb8e7a2c9308" />
+
+
+(https://github.com/jayakumar107/Pizza-Sales-Dashboard/blob/main/pizza%20sales%20report%20dashboard.png)
 
